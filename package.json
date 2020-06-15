@@ -22,7 +22,6 @@
   },
   "devDependencies": {
     "jest": "^26.0.1",
-    
     "supertest": "^4.0.2"
   },
   "engines": {
